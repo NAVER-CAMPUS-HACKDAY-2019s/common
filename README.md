@@ -1,0 +1,2 @@
+# common
+2019 NAVER CAMPUS HACKDAY SUMMER 행사안내
